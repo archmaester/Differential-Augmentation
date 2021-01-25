@@ -1,4 +1,4 @@
-# Simple Efficient Differential-Augmentation for Object Detection
+# Simple Efficient Differential-Augmentation for Object Detection (PyTorch)
 
 Differential Augmentations can be used to improve detection performance, generate robust samples in GAN setup [DiffAugment](\https://arxiv.org/abs/2006.10738)
 
