@@ -1,6 +1,6 @@
-# Simple Efficient Differential-Augmentation for Object Detection (PyTorch)
+# Simple Efficient Differential Batch Augmentations for Classification and Object Detection (PyTorch)
 
-Differential Augmentations can be used to improve detection performance, generate robust samples in GAN setup [DiffAugment](\https://arxiv.org/abs/2006.10738)
+Differential Augmentations can be used to improve detection and classification performance, generate robust samples in GAN setup [DiffAugment](\https://arxiv.org/abs/2006.10738)
 
 #### The implementation is compatbile with
 * [https://github.com/jwyang/faster-rcnn.pytorch]
